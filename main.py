@@ -8,4 +8,4 @@ while True:
     pyautogui.press("enter")
 
     # чтобы настроить частоту отправки:
-    # pyautogui.press("enter", interval=0.2) interval - частота отправки - сейчас каждые 0.2 секунды
+    # pyautogui.press("enter", interval=0.2) interval - частота отправки - здесь каждые 0.2 секунды
